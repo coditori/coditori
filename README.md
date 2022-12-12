@@ -7,5 +7,5 @@ About me
 - ❤️ In love with Clean Code, Java family and Linux.
 - 💬  Ask me about anything [here](https://github.com/coditori/coditori/issues)
 
-[![Ario's GitHub stats](https://github-readme-stats.vercel.app/api?username=coditori)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coditori)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ashy-eight.vercel.app/api?username=coditori&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ashy-eight.vercel.app/api/top-langs/?username=coditori&show_icons=true&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
